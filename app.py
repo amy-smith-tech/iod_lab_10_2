@@ -5,8 +5,8 @@ from utils import preprocessor
 
 from huggingface_hub import hf_hub_download
 
-REPO_ID = "michael-map/tripadvisor-nlp-rfc"
-FILENAME = "random_forest_model.joblib"
+REPO_ID = "amosfyy/10_2_model"
+FILENAME = "model_.joblib"
 
 def run():
 
