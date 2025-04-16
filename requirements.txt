@@ -6,3 +6,4 @@ scikit-learn>=1.0.2
 joblib>=0.17.0
 streamlit>=1.36.0
 thinc==8.2.5
+huggingface-hub==0.17.3
